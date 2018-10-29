@@ -1,4 +1,0 @@
-
-
-print("world")
-print("hello")
